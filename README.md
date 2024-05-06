@@ -1,2 +1,2 @@
 # Programming
-This is my programming directory. I push my various language program code into this repository.
+This is my language directory. I push my program code into this repository.
